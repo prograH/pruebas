@@ -1,2 +1,0 @@
-# pruebasH
-programas
