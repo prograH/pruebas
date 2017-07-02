@@ -1,5 +1,8 @@
- <?php 
- echo '<p>Hola Mundo</p>';
- echo '<p>Estoy en la web</p>';
- echo ' <input type="text" id="name" />';
- ?>
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body bgcolor="cyan">
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
+</html>
