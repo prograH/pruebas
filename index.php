@@ -4,7 +4,8 @@
  </head>
  <body>
  <?php 
- echo '<p>Hola Mundo</p>'; 
+  include('server.php'); 
+  echo '<p>Server Activo</p>'; 
  ?>
  </body>
 </html>
