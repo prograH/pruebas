@@ -1,8 +1,5 @@
-<html>
- <head>
-  <title>Prueba de PHP</title>
- </head>
- <body bgcolor="cyan">
- <?php echo '<p>Hola Mundo</p>'; ?>
- </body>
-</html>
+
+<?php
+echo '<p>Hola Mundo</p>';
+?>
+
