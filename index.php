@@ -4,8 +4,8 @@
  </head>
  <body>
  <?php 
-  include('server.php'); 
-  echo '<p>$titulo</p>'; 
+  include 'server.php';
+  echo "<p>$titulo</p>"; 
  ?>
  </body>
 </html>
