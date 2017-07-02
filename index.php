@@ -5,7 +5,7 @@
  <body>
  <?php 
   include('server.php'); 
-  echo '<p>Server Activo</p>'; 
+  echo '<p>$titulo</p>'; 
  ?>
  </body>
 </html>
